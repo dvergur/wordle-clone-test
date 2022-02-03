@@ -1,5 +1,4 @@
 const words: { [key: string]: boolean } = {
-  aahed: true,
   aalii: true,
   aargh: true,
   abaca: true,
