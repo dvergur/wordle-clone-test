@@ -102,7 +102,7 @@ export const SettingsModal = ({
               >
                 buying me a coffee
               </a>
-              <span className="ml-1 text-xs">💛</span>
+              <span className="ml-1 text-xs">🧡</span>
             </div>
             <a
               href="https://www.buymeacoffee.com/acmeto"

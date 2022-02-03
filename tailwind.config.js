@@ -11,10 +11,10 @@ module.exports = {
     },
     extend: {
       colors: {
-        background: 'hsl(231, 16%, 92%)',
-        primary: 'hsl(231, 16%, 25%)',
-        'background-dark': 'hsl(231, 16%, 25%)',
-        'primary-dark': 'hsl(231, 16%, 92%)',
+        background-dark: 'hsl(231, 16%, 92%)',
+        primary-dark: 'hsl(231, 16%, 25%)',
+        'background': 'hsl(231, 16%, 25%)',
+        'primary': 'hsl(231, 16%, 92%)',
         'n-green': 'hsl(110, 33%, 50%)',
         'n-gray': 'hsl(231, 16%, 45%)',
       },
